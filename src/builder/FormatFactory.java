@@ -2,8 +2,9 @@ package builder;
 
 import java.util.Arrays;
   /**
+   * @author parten23
+   * <br>
   * Matrix formatting.
-  *@author 10gun
   */
 public final class FormatFactory {
 

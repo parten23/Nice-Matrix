@@ -4,12 +4,12 @@ import static builder.Builder.matrixBuilder;
 import static builder.Builder.oldRepresentation;
 
 /**
- * @author 10gun
+ * @author parten23
  */
 public class Main {
     public static void main(String[] args) {
         System.out.print("|\\\t| |  /=== |===\t  |\\\t/|\t/\\\t=====|==\\ o \\ /\n| \\\t| | |\t  |=== -- |\t\\  / | /==\\\t  |\t |==/ |\t |\n|  \\| |  \\=== |===\t  |\t \\/\t |/\t   \\  |\t |\t\\ | / \\\n");
-        System.out.println("V alpha\t\t\t\t\t\t\t\t\t   By 10gun");
+        System.out.println("V alpha\t\t\t\t\t\t\t\t\t   By parten");
         System.out.println("A comprehensible representation of matrices (2D arrays) in Java.\nTry yourself...");
         System.out.println();
         System.out.println("Enter number of rows for the matrix");

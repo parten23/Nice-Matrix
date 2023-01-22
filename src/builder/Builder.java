@@ -2,12 +2,14 @@ package builder;
 
 import java.util.Arrays;
   /**
+   * @author parten23
+   * <br>
   * The class {@code Builder} includes methods to build a matrix.
-  * <p>
+   * <br>
   * The {@code matrixBuilder} method builds a matrix from rows and columns
   * supplied to it as arguments.
+   * <br>
   * The {@code format} method from {@link FormatFactory} class formats the whole matrix.
-  * @author 10gun
   */
 public final class Builder {
 
